@@ -16,7 +16,7 @@ MyBatisを使って日本語名テーブル、日本語名カラムを英語に�
 - mybatis-spring-boot-starter 1.3.2
 - h2 database
 
-Spring Tools Suites 4を使って作りました。
+[Spring Tools Suites 4 for eclipse](https://spring.io/tools)を使って作りました。
 
 ## 使い方
 
