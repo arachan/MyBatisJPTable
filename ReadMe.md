@@ -24,7 +24,7 @@ I make it by Spring Tools Suite 4.
 2. gradlew build
 
 ## import.sql
-it make under table on H2 Databse.
+it make under table on H2 Database.
 
 TableName : 町
 
@@ -35,7 +35,9 @@ TableName : 町
 ## CityMapper.xml
 
 It change '町' to city.
+
 It change '名前' to name.
+
 It change '国' to country.
 
 It connect to City.class.
