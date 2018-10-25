@@ -27,6 +27,7 @@ I make it by Spring Tools Suite 4.
 it make under table on H2 Databse.
 
 TableName : 町
+
 |ID|名前|国|
 |:--|:--|:--|
 |1|東京|日本|

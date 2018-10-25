@@ -8,7 +8,7 @@ MyBatisを使って日本語名テーブル、日本語名カラムを英語に�
 
 [ResultMaps](http://www.mybatis.org/mybatis-3/ja/sqlmap-xml.html#Result_Maps)
 
-##　環境 
+## 環境 
 
 - Java 1.8 
 - Windows10 x64
@@ -18,7 +18,7 @@ MyBatisを使って日本語名テーブル、日本語名カラムを英語に�
 
 Spring Tools Suites 4を使って作りました。
 
-##　使い方
+## 使い方
 
 1. Git clone
 2. gradlew build
