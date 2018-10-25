@@ -24,7 +24,7 @@ I make it by Spring Tools Suite 4.
 2. gradlew build
 
 ## import.sql
-it make under table on H2 Database.
+it make a table underline on H2 Database.
 
 TableName : 町
 
