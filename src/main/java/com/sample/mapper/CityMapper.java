@@ -15,7 +15,7 @@
  */
 package com.sample.mapper;
 
-import java.util.List;
+import java.util.Collection;
 import org.apache.ibatis.annotations.Mapper;
 import com.sample.domain.City;
 
@@ -25,6 +25,6 @@ import com.sample.domain.City;
 @Mapper
 public interface CityMapper {
 
-	List<City> selectCityAll();
+	Collection<City> selectCityAll();
 
 }
