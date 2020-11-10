@@ -10,10 +10,10 @@ So, I convert to English by ResultMap in MyBatis Mapper XML file.
 
 ## Environment 
 
-- Java 1.8 
+- Java 11
 - Windows10 x64
-- Spring Boot 2.1.RC1
-- mybatis-spring-boot-starter 1.3.2
+- Spring Boot 2.3.5.RELEASE
+- mybatis-spring-boot-starter 1.3.5
 - h2 database
 
 I make it by [Spring Tools Suite 4 for eclipse.](https://spring.io/tools)

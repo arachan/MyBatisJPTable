@@ -10,9 +10,9 @@ MyBatisを使って日本語名テーブル、日本語名カラムを英語に�
 
 ## 環境 
 
-- Java 1.8 
+- Java 11 
 - Windows10 x64
-- Spring Boot 2.1.RC1
+- Spring Boot 2.3.5.RELEASE
 - mybatis-spring-boot-starter 1.3.2
 - h2 database
 
